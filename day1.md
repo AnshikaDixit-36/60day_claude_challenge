@@ -11,4 +11,5 @@ Added creative elements like a  AI title and a cinematic character description.
 Generated a hyper‑realistic cinematic AI portrait to visually represent the profile.
 
 Made the profile modern, cinematic, internet‑native, and LinkedIn‑shareable.
-<img width="842" height="1264" alt="ai_challenge" src="https://github.com/user-attachments/assets/6e4a6690-4803-4034-aa2f-20687b59b770" />
+<img width="842" height="1264" alt="ai_challenge" src="https://github.com/user-attachments/assets/c3d7723a-654f-4e3a-a372-058b47654cec" />
+
